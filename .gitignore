@@ -1,0 +1,4 @@
+brain/sessions/auto/*.md
+__pycache__/
+*.pyc
+.claude/settings.local.json
